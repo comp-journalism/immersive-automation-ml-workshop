@@ -4,6 +4,9 @@ Today we're going to use machine learning to make predictions about online comme
 
 Let's make sure our computers are setup first. If you haven't already, download and install Anaconda: https://www.anaconda.com/download/#macos
 
+Download the Jupyter Notebook for our project to a local folder on your computer [here](insert link to NB here) 
 
+Once you have Anaconda installed, launch a Jupyter Notebook using the Anaconda Navigator graphical user interface. 
 
+In the Jupyter Notebook navigate to the downloaded notebook for the project and open it. 
 

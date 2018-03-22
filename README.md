@@ -3,7 +3,7 @@
 Today we're going to use machine learning to make predictions about online comments. Online comment curation is a task that online news sites often struggle with. Using machine learning can help moderators scale-up their ability to identify and remove low quality comments, or identify and highlight high quality comments. 
 
 Background
-- This tutorial assumes you have some basic knowledge of how to read and edit Python code. It uses Pandas as a data manipulation library, and Sci-kit Learn as the machine learning library. 
+- This tutorial assumes you have some basic knowledge of how to read and edit Python code. It uses Pandas as a data manipulation library, and Scikit Learn as the machine learning library. 
 
 Downloads
 - Let's make sure our computers are setup first. If you haven't already, download and install Anaconda: https://www.anaconda.com/download/#macos

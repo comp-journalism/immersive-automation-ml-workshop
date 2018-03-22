@@ -2,11 +2,12 @@
 
 Today we're going to use machine learning to make predictions about online comments. Online comment curation is a task that online news sites often struggle with. Using machine learning can help moderators scale-up their ability to identify and remove low quality comments, or identify and highlight high quality comments. 
 
-Let's make sure our computers are setup first. If you haven't already, download and install Anaconda: https://www.anaconda.com/download/#macos
-
-Download the Jupyter Notebook for our project to a local folder on your computer [here](insert link to NB here) 
+Downloads
+- Let's make sure our computers are setup first. If you haven't already, download and install Anaconda: https://www.anaconda.com/download/#macos
+- Now download the Jupyter Notebook for our project to a local folder on your computer [here](insert link to NB here) 
+- Download the data we're going to use for training and testing our machine learning. Save the [file here](https://www.dropbox.com/s/zvr0voq32xtbns8/comments-sampled.csv?dl=0) in the same folder with the Jupyter Notebook for the project. 
 
 Once you have Anaconda installed, launch a Jupyter Notebook using the Anaconda Navigator graphical user interface. 
 
-In the Jupyter Notebook navigate to the downloaded notebook for the project and open it. 
+In the Jupyter Notebook navigate to the downloaded notebook for the project and open it. Instructions continue there ... 
 

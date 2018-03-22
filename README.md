@@ -10,7 +10,7 @@ Downloads
 - Download the [Jupyter Notebook](https://github.com/comp-journalism/immersive-automation-ml-workshop/blob/master/Comments-prediction-skeleton.ipynb)  for our project to a local folder on your computer. 
 - Download the data we're going to use for training and testing our machine learning. Save the [data file](https://www.dropbox.com/s/zvr0voq32xtbns8/comments-sampled.csv?dl=0) in the same folder with the Jupyter Notebook for the project. 
 
-Once you have Anaconda installed, launch a Jupyter Notebook using the Anaconda Navigator graphical user interface. 
-
-In the Jupyter Notebook navigate to the downloaded notebook for the project and open it. Instructions continue there ... 
+Getting Going
+- Once you have Anaconda installed, launch a Jupyter Notebook using the Anaconda Navigator graphical user interface. 
+- In the Jupyter Notebook navigate to the downloaded notebook for the project and open it. Instructions continue there ... 
 

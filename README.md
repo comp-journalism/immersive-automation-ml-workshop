@@ -7,8 +7,8 @@ Background
 
 Downloads
 - Let's make sure our computers are setup first. If you haven't already, download and install Anaconda: https://www.anaconda.com/download/#macos
-- Download the [Jupyter Notebook](https://github.com/comp-journalism/immersive-automation-ml-workshop/blob/master/Comments-prediction-skeleton.ipynb)  for our project to a local folder on your computer. 
-- Download the data we're going to use for training and testing our machine learning. Save the [data file](https://www.dropbox.com/s/zvr0voq32xtbns8/comments-sampled.csv?dl=0) in the same folder with the Jupyter Notebook for the project. 
+- Download the [Jupyter Notebook](https://github.com/comp-journalism/immersive-automation-ml-workshop/blob/master/Comments-prediction-skeleton.ipynb)  for our project to a local folder on your computer. (Click the link and then download the version of the file using the "Raw" button)
+- Download the data we're going to use for training and testing our machine learning. Save the [data file](https://www.dropbox.com/s/zvr0voq32xtbns8/comments-sampled.csv?dl=0) in the same folder with the Jupyter Notebook for the project. (Click the link and then download from Dropbox)
 
 Getting Going
 - Once you have Anaconda installed, launch a Jupyter Notebook using the Anaconda Navigator graphical user interface. 
